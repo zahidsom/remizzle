@@ -13,16 +13,16 @@ The objective was to integrate database with remix.
 
 ## Development
 
+From your terminal:
+
 N.B.  don't forget to run this command to recreate schema (file schema.server.ts )
 ```sh
 npm run db:migrations 
 ```
 
-From your terminal:
-
-
+node_modules excluded from repository so need to run before application will start.
 ```sh
-npm install
+npm i
 ```
 
 
