@@ -3,11 +3,11 @@
 Fullstack Application Demo using drizzle ORM ,SQLite and Remix 
 https://orm.drizzle.team/docs/select
 
-
-Demos Remix loader  and action features
+Demo of Remix framework, loader  and action features
+which uploads data and requeries database and populates the UI. 
 
 This bare bones app only demos query and  simple hardcoded mutation.
-The obective was to integrate database with remix.
+The objective was to integrate database with remix.
 
 - [Remix Docs](https://remix.run/docs)
 
