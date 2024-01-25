@@ -13,7 +13,7 @@ The objective was to integrate database with remix.
 
 ## Development
 
-N.B. command to remember for recreation of schema
+N.B.  don't forget to run this command to recreate schema (file schema.server.ts )
 ```sh
 npm run db:migrations 
 ```
